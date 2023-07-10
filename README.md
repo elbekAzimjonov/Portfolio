@@ -6,8 +6,8 @@ The portfolio is divided into 2 main sections, with brief, non-technical descrip
 
 | Section | Count |
 |----------|-------|
-| <a href="https://github.com/elbekAzimjonov/Portfolio#production-of-android-apps">Production Android apps</a> | 13 |
-| <a href="https://github.com/elbekAzimjonov/Portfolio#hobby-native-android-apps">Production Android apps</a> | 13 |
+| <a href="https://github.com/elbekAzimjonov/Portfolio#production-of-android-apps">Production Android apps</a> | 6 |
+| <a href="https://github.com/elbekAzimjonov/Portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 3 |
 
 
 
@@ -24,7 +24,17 @@ TRUCKUZ is a logistics system that simplifies the process of ordering freight tr
 
 • Knowledge: MVVM, Jetpack Navigation Component, Room, Kotlin Flows, Git, R8, Firebase, GSON, Kotlin Coroutines, Hilt, Glide, Click Payment, ExoPlayer2, ViewBinding, Jetpack Paging2, Material2, Custom Views, Animations, Threading, Deployment of Firebase Cloud Functions via JavaScript, Custom and Google authentication...
 
+## 1. Dealline - online market
 
+<p align="center">
+ <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/Deallne.png" width="609" height="400" />
+</p>
+ 
+"Deadline" is a mobile application designed to facilitate convenience for "Agents," "Buyers," and "Suppliers" in the automotive equipment store. 📲 The app allows users to access information about products at the store, place orders, accept payments, and manage accounting records. The goal of the app is to create conveniences for agents, buyers, and suppliers in the automotive equipment store.
+
+• Implementing new features. re-creating UI design.
+
+• Knowledge: MVVM, Kotlin, Navigation Component, Room, Kotlin Flows, Git, Rest Api, GSON, Kotlin Coroutines, Hilt, Glide, ViewBinding,  Material2, Custom Views, authentication...
 
 # Hobby Native Android apps
 
