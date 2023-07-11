@@ -52,6 +52,7 @@ TRUCKUZ is a logistics system that simplifies the process of ordering freight tr
 The Savdo Delivery application is designed for delivery agents to manage and deliver products to customers. It is used to deliver products directly to the customer's home.
 
 • Developed the Savdo Delivery application entirely on my own.
+
 • Implementing advanced features and ensuring its stability and security.
 
 • Knowledge: Kotlin, Dagger 2, MVVM architecture, Timber, Navigation Component, Room, SharedPreferences, Git, Rest Api, UI/UX Gson, OkHttp, Kotlin Coroutines, GPS, Retrofit 2, Glide, ViewBinding, Material2, Custom Views, Google map API.
@@ -65,7 +66,9 @@ The Savdo Delivery application is designed for delivery agents to manage and del
 "Tezkor Akfa" is a comprehensive digital solution designed to streamline and automate the registration and service of customers in the Akfa Windows system. The program is designed to simplify the management and operation of the business by providing a centralized platform for all stakeholders, including the director, showroom, surveyor, storekeeper, sales department operator, and supplier. Also, It is a powerful digital solution that enables the Akfa Windows system to deliver exceptional customer service by providing a streamlined and efficient process from start to finish.
 
 • Developed the Tezkor Akfa app entirely on my own.
+
 • Implementing advanced features and updating them.
+
 • Debugging the application, fixing the bugs, and applying the best practices.
 
 • Knowledge: Kotlin, Dagger 2, GMS, Pluto, Camera, MVVM architecture, Drag Drop, UI/UX , Navigation Component, Room, Lottie Animation, SharedPreferences, Flow, Git, Rest Api,Gson, OkHttp, Kotlin Coroutines, GPS, Retrofit 2, Glide, ViewBinding, Material2, Custom Views, Google map api.
@@ -87,6 +90,7 @@ The Savdo Delivery application is designed for delivery agents to manage and del
 The World Movies Android app is a comprehensive platform for movie and TV show enthusiasts, designed to help users explore and discover a wide range of content using The Movie Database (TMDb) APIs. With the World Movies app, users can access a vast database of movies and TV shows, with detailed information on each title, including ratings, reviews, cast, crew, and trailers. The app's user-friendly interface allows users to search for content by title, genre, year, or rating, and filter their search results based on their preferences.
 
 • Developed the World Movies app entirely on my own.
+
 • Applying the best practices.
 
 • Knowledge: Kotlin, Dagger 2, MVVM architecture, UI/UX, Navigation Component, Room, Lottie Animation, SharedPreferences, Git, Rest API, Gson, OkHttp, Kotlin Coroutines, Retrofit, Glide, ViewBinding, Material2, Custom Views.
