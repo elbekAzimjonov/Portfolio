@@ -7,7 +7,7 @@ The portfolio is divided into 2 main sections, with brief, non-technical descrip
 | Section | Count |
 |----------|-------|
 | <a href="https://github.com/elbekAzimjonov/Portfolio#production-of-android-apps">Production Android apps</a> | 4 |
-| <a href="https://github.com/elbekAzimjonov/Portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 1 |
+| <a href="https://github.com/elbekAzimjonov/Portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 2 |
 
 
 
@@ -87,8 +87,19 @@ The Savdo Delivery application is designed for delivery agents to manage and del
  </a>
 </p>
 
-The World Movies Android app is a comprehensive platform for movie and TV show enthusiasts, designed to help users explore and discover a wide range of content using The Movie Database (TMDb) APIs. With the World Movies app, users can access a vast database of movies and TV shows, with detailed information on each title, including ratings, reviews, cast, crew, and trailers. The app's user-friendly interface allows users to search for content by title, genre, year, or rating, and filter their search results based on their preferences.
+## 1. Cinemoza - 4K Movie streaming service system
 
+<p align="center">
+ <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/cinemoza.png" width="609" height="400" />
+</p>
+
+<p align="center">
+ <a href="https://github.com/elbekAzimjonov/WorldMovies">
+   <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=whit">
+ </a>
+</p>
+
+Introducing Cinemoza, your ultimate destination for the finest movie and TV show streaming experience. With Cinemoza, you can unlock a world of captivating entertainment right at your fingertips. Immerse yourself in the magic of cinema with our feature-packed Android app.
 • Developed the World Movies app entirely on my own.
 
 • Applying the best practices.
