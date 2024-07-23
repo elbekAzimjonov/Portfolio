@@ -6,8 +6,12 @@ The portfolio is divided into 2 main sections, with brief, non-technical descrip
 
 | Section | Count |
 |----------|-------|
-| <a href="https://github.com/elbekAzimjonov/Portfolio#production-of-android-apps">Production Android apps</a> | 4 |
+| <a href="https://github.com/elbekAzimjonov/Portfolio#production-of-android-apps">Production Android apps</a> | 5 |
 | <a href="https://github.com/elbekAzimjonov/Portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 2 |
+| <a href="https://github.com/elbekAzimjonov/Portfolio#hobby-native-android-apps">Test Tasks</a> | 2 |
+| <a href="https://github.com/elbekAzimjonov/Portfolio#hobby-native-android-apps">Cross platform</a> | 2 |
+| <a href="https://github.com/elbekAzimjonov/Portfolio#hobby-native-android-apps">Python backend</a> | 2 |
+| <a href="https://github.com/elbekAzimjonov/Portfolio#hobby-native-android-apps">Java backend</a> | 1 |
 
 
 
