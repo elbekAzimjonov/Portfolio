@@ -2,11 +2,11 @@
 
 _Single-minded focus, fervor, and perseverance!_
 
-The portfolio is divided into 2 main sections, with brief, non-technical descriptions provided. For a more detailed look at the technical aspects of each app, please visit the corresponding GitHub page, where you can find a comprehensive breakdown of the tech stack, timestamps for commits, full source code, and a demo app for you to try out.
+The portfolio is divided into 6 main sections, with brief, non-technical descriptions provided. For a more detailed look at the technical aspects of each app, please visit the corresponding GitHub page, where you can find a comprehensive breakdown of the tech stack, timestamps for commits, full source code, and a demo app for you to try out.
 
 | Section | Count |
 |----------|-------|
-| <a href="https://github.com/elbekAzimjonov/Portfolio#production-of-android-apps">Production Android apps</a> | 5 |
+| <a href="https://github.com/elbekAzimjonov/Portfolio#production-of-android-apps">Production Android apps</a> | 6 |
 | <a href="https://github.com/elbekAzimjonov/Portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 2 |
 | <a href="https://github.com/elbekAzimjonov/Portfolio#cross-platform">Cross platform</a> | 2 |
 | <a href="https://github.com/elbekAzimjonov/Portfolio#python-backend">Python backend</a> | 2 |
@@ -65,6 +65,28 @@ The Savdo Delivery application is designed for delivery agents to manage and del
 
 <p align="center">
  <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/Tezkor%20akfa.png" width="609" height="400" />
+</p>
+ 
+"Tezkor Akfa" is a comprehensive digital solution designed to streamline and automate the registration and service of customers in the Akfa Windows system. The program is designed to simplify the management and operation of the business by providing a centralized platform for all stakeholders, including the director, showroom, surveyor, storekeeper, sales department operator, and supplier. Also, It is a powerful digital solution that enables the Akfa Windows system to deliver exceptional customer service by providing a streamlined and efficient process from start to finish.
+
+• Developed the Tezkor Akfa app entirely on my own.
+
+• Implementing advanced features and updating them.
+
+• Debugging the application, fixing the bugs, and applying the best practices.
+
+• Knowledge: Kotlin, Dagger 2, GMS, Pluto, Camera, MVVM architecture, Drag Drop, UI/UX , Navigation Component, Room, Lottie Animation, SharedPreferences, Flow, Git, Rest Api,Gson, OkHttp, Kotlin Coroutines, GPS, Retrofit 2, Glide, ViewBinding, Material2, Custom Views, Google map api.
+
+## 4. Romchi - digitization of working with AKFA windows
+
+<p align="center">
+ <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/savdo%20delivery.png" width="609" height="400" />
+</p>
+
+ <p align="center">
+ <a href="https://play.google.com/store/apps/details?id=com.conamobile.romchi&hl=en">
+   <img  src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/googleplay.png">
+ </a>
 </p>
  
 "Tezkor Akfa" is a comprehensive digital solution designed to streamline and automate the registration and service of customers in the Akfa Windows system. The program is designed to simplify the management and operation of the business by providing a centralized platform for all stakeholders, including the director, showroom, surveyor, storekeeper, sales department operator, and supplier. Also, It is a powerful digital solution that enables the Akfa Windows system to deliver exceptional customer service by providing a streamlined and efficient process from start to finish.
