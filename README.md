@@ -156,7 +156,7 @@ Teacher Skill Evaluator is an innovative and comprehensive digital solution desi
 ## 2. Cinema Ticket Booker
 
 <p align="center">
- <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/cinema.png" width="609" height="350" />
+ <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/cinema.png"  width="609" height="350" />
 </p>
 
 
@@ -170,3 +170,10 @@ Cinema Ticket Booker is a feature-rich and user-friendly digital solution design
 
 • Knowledge: Flutter, Dart, Provider, Riverpod, Bloc, Clean Architecture, Custom UI/UX Design, Material Design, Firebase, REST API, JSON, SQLite, Hive, Git, State Management, Animations, Google Maps API, and more.
 
+# Python backend
+
+## 1. Quiz uz - Teacher Skill Evaluator
+
+<p align="center">
+ <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/restaurant.png" width="609" height="350" />
+</p>
