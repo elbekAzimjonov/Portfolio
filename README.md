@@ -80,12 +80,12 @@ The Savdo Delivery application is designed for delivery agents to manage and del
 ## 4. Romchi - digitization of working with AKFA windows
 
 <p align="center">
- <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/savdo%20delivery.png" width="609" height="400" />
+ <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/romchi.png" width="609" height="400" />
 </p>
 
  <p align="center">
  <a href="https://play.google.com/store/apps/details?id=com.conamobile.romchi&hl=en">
-   <img  src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/googleplay.png">
+   <img  src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/googleplay.png" width="200" height="100">
  </a>
 </p>
  
