@@ -91,7 +91,7 @@ The Savdo Delivery application is designed for delivery agents to manage and del
  </a>
 </p>
 
-## 1. Cinemoza - 4K Movie streaming service system
+## 2. Cinemoza - 4K Movie streaming service system
 
 <p align="center">
  <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/cinemoza.png" width="609" height="400" />
@@ -128,3 +128,21 @@ Teacher Skill Evaluator is an innovative and comprehensive digital solution desi
 • Debugged the application, fixed bugs, and applied best practices to maintain a high standard of code quality and user experience.
 
 • Knowledge: Flutter, Dart, Provider, Riverpod, Bloc, Clean Architecture, Custom UI/UX Design, Material Design, Firebase, REST API, JSON, SQLite, Hive, Git, State Management, Animations, Google Maps API, and more.
+
+## 2. Cinema Ticket Booker
+
+<p align="center">
+ <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/cinema.png" width="609" height="350" />
+</p>
+
+
+Cinema Ticket Booker is a feature-rich and user-friendly digital solution designed to simplify the process of booking cinema tickets. Built using best Flutter practices, custom UI, and clean architecture, this app offers a seamless and efficient user experience. Cinema Ticket Booker provides users with a comprehensive platform to book tickets, view seat availability, and access detailed information about other patrons, enhancing the overall movie-going experience.
+
+• Developed the Cinema Ticket Booker app entirely on my own.
+
+• Implemented advanced features and continuously updated the app to ensure optimal performance and user satisfaction.
+
+• Debugged the application, fixed bugs, and applied best practices to maintain a high standard of code quality and user experience.
+
+• Knowledge: Flutter, Dart, Provider, Riverpod, Bloc, Clean Architecture, Custom UI/UX Design, Material Design, Firebase, REST API, JSON, SQLite, Hive, Git, State Management, Animations, Google Maps API, and more.
+
