@@ -110,3 +110,21 @@ Introducing Cinemoza, your ultimate destination for the finest movie and TV show
 
 • Knowledge: Kotlin, Dagger 2, MVVM architecture, UI/UX, Navigation Component, Room, Lottie Animation, SharedPreferences, Git, Rest API, Gson, OkHttp, Kotlin Coroutines, Retrofit, Glide, ViewBinding, Material2, Custom Views.
 
+# Cross platform
+
+## 1. Quiz uz - Teacher Skill Evaluator
+
+<p align="center">
+ <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/quiz.png" width="609" height="400" />
+</p>
+
+
+Teacher Skill Evaluator is an innovative and comprehensive digital solution designed to help school teachers assess and enhance their skills in their respective subjects. This app leverages best Flutter practices, custom UI, and clean architecture to provide an intuitive and efficient user experience. It aims to empower teachers by offering a centralized platform to evaluate their teaching competencies, identify areas for improvement, and track their progress over time.
+
+• Developed the Teacher Skill Evaluator app entirely on my own.
+
+• Implemented advanced features and continuously updated the app to ensure optimal performance and user satisfaction.
+
+• Debugged the application, fixed bugs, and applied best practices to maintain a high standard of code quality and user experience.
+
+• Knowledge: Flutter, Dart, Provider, Riverpod, Bloc, Clean Architecture, Custom UI/UX Design, Material Design, Firebase, REST API, JSON, SQLite, Hive, Git, State Management, Animations, Google Maps API, and more.
