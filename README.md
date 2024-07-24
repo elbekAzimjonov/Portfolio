@@ -6,7 +6,7 @@ The portfolio is divided into 6 main sections, with brief, non-technical descrip
 
 | Section | Count |
 |----------|-------|
-| <a href="https://github.com/elbekAzimjonov/Portfolio#production-of-android-apps">Production Android apps</a> | 6 |
+| <a href="https://github.com/elbekAzimjonov/Portfolio#production-of-android-apps">Production Android apps</a> | 5 |
 | <a href="https://github.com/elbekAzimjonov/Portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 2 |
 | <a href="https://github.com/elbekAzimjonov/Portfolio#cross-platform">Cross platform</a> | 2 |
 | <a href="https://github.com/elbekAzimjonov/Portfolio#python-backend">Python backend</a> | 2 |
@@ -172,8 +172,91 @@ Cinema Ticket Booker is a feature-rich and user-friendly digital solution design
 
 # Python backend
 
-## 1. Quiz uz - Teacher Skill Evaluator
+## 1. Restaurant Manager
 
 <p align="center">
- <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/restaurant.png" width="609" height="350" />
+ <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/restaurant.png" width="609" height="350"/>
+</p>
+
+<p align="center">
+ <a href="https://github.com/elbekAzimjonov/Businesses">
+   <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=whit">
+ </a>
+</p>
+
+Restaurant Manager is a robust and efficient digital solution designed to streamline the management of restaurant operations. Built using Django, this app allows restaurant administrators to easily add, update, and manage information about their menu items, including prices, names, and discounts, directly from the admin panel. Restaurant Manager aims to simplify the administrative tasks associated with running a restaurant, providing a centralized platform for effective management.
+
+• Developed the Restaurant Manager app entirely on my own.
+
+• Implemented advanced features and continuously updated the app to ensure optimal performance and user satisfaction.
+
+• Debugged the application, fixed bugs, and applied best practices to maintain a high standard of code quality and user experience.
+
+• Knowledge: Django, Python, HTML, CSS, JavaScript, Bootstrap, PostgreSQL, JSON, Git, Admin Panel Customization, User Authentication, and more.
+
+# Java backend
+## 1. Simple REST API Builder
+
+Simple REST API Builder is an educational and practical application developed using Java Spring, aimed at providing a hands-on understanding of building RESTful APIs. This app serves as a foundational project for those looking to learn and master the principles and practices of REST API development with Java Spring. Simple REST API Builder offers a straightforward and clear example of how to create, manage, and deploy RESTful services.
+
+• Developed the Simple REST API Builder app entirely on my own.
+
+• Implemented core REST API functionalities to demonstrate best practices and essential concepts in API development.
+
+• Debugged the application, fixed bugs, and applied best practices to maintain a high standard of code quality and user experience.
+
+• Knowledge: Java, Spring Boot, Spring MVC, Spring Data JPA, RESTful Web Services, JSON, Maven, Hibernate, Git, Postman, Swagger, and more.
+
+<p align="center">
+ <a href="https://github.com/elbekAzimjonov/demo">
+   <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=whit">
+ </a>
+</p>
+
+# Test-Task
+## 1. Test-Task-KATTABOZOR
+
+I have created this test task to demonstrate my knowledge and experience for the KATTABOZOR marketplace.
+# Task
+
+Level: Easy
+
+Develop an Android application that can receive and display information from a network source.
+
+You need to create mobile application (on Kotlin, clean architecture) which will display the data as a list.
+Make simple design by yourself, we look at code only.
+
+API -> https://www.kattabozor.uz/hh/test/api/v1/offers
+
+# Tech Stack
+
+- Architectural Pattern: Multi-module->Clean Architecture, MVVM
+- UI: XML, Material3
+- Dependency Injection: Hilt
+- Concurrency: Kotlin Coroutines, Kotlin Flows
+- Networking: Retrofit2, Kotlin Serialization
+- Others: ViewBinding, Glide.
+
+<p align="center">
+ <a href="https://github.com/elbekAzimjonov/Test-Task-KATTABOZOR">
+   <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=whit">
+ </a>
+</p>
+
+## 2. Test-Task-MyTaxi
+
+MyTaxi Clone is a sophisticated Android application developed using Kotlin and clean architecture principles. This app is designed to fetch and display taxi service information from a network source, structured as a list. The project was created to demonstrate advanced Android development skills and architectural best practices.
+
+• Developed the MyTaxi Clone app entirely on my own as a demonstration of my technical skills and experience.
+
+• Implemented advanced features and continuously updated the app to ensure optimal performance and user satisfaction.
+
+• Debugged the application, fixed bugs, and applied best practices to maintain a high standard of code quality and user experience.
+
+• Knowledge: Kotlin, Clean Architecture, MVVM, XML, Material3, Hilt, Kotlin Coroutines, Kotlin Flows, Retrofit2, Kotlin Serialization, ViewBinding, Glide, Git, and more.
+
+<p align="center">
+ <a href="https://github.com/elbekAzimjonov/My-Taxi">
+   <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=whit">
+ </a>
 </p>
