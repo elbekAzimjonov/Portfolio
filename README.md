@@ -77,27 +77,29 @@ The Savdo Delivery application is designed for delivery agents to manage and del
 
 • Knowledge: Kotlin, Dagger 2, GMS, Pluto, Camera, MVVM architecture, Drag Drop, UI/UX , Navigation Component, Room, Lottie Animation, SharedPreferences, Flow, Git, Rest Api,Gson, OkHttp, Kotlin Coroutines, GPS, Retrofit 2, Glide, ViewBinding, Material2, Custom Views, Google map api.
 
-## 4. Romchi - digitization of working with AKFA windows
+## 5. Romchi - digitization of working with AKFA windows
 
 <p align="center">
- <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/romchi.png" width="609" height="400" />
+ <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/romchi.png" width="609" height="350" />
 </p>
 
  <p align="center">
  <a href="https://play.google.com/store/apps/details?id=com.conamobile.romchi&hl=en">
-   <img  src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/googleplay.png" width="100" height="45">
+   <img  src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/googleplay.png" width="90" height="26">
  </a>
 </p>
  
-"Tezkor Akfa" is a comprehensive digital solution designed to streamline and automate the registration and service of customers in the Akfa Windows system. The program is designed to simplify the management and operation of the business by providing a centralized platform for all stakeholders, including the director, showroom, surveyor, storekeeper, sales department operator, and supplier. Also, It is a powerful digital solution that enables the Akfa Windows system to deliver exceptional customer service by providing a streamlined and efficient process from start to finish.
+Romchi is an advanced and comprehensive digital solution designed to facilitate the creation and calculation of custom windows on various platforms. This app, akin to "Windor," provides users with powerful tools to design and customize windows using intuitive drag-and-drop functionality and custom ConstraintLayout in Kotlin. Romchi is specifically built to handle complex tasks, ensuring precision and efficiency in window creation and calculation.
 
-• Developed the Tezkor Akfa app entirely on my own.
+• Contributed significantly to the development of the Romchi app.
 
-• Implementing advanced features and updating them.
+• Implemented custom window creation activities using drag-and-drop functionality and custom ConstraintLayout in Kotlin.
 
-• Debugging the application, fixing the bugs, and applying the best practices.
+• Ensured the app's functionality was robust and capable of handling complex tasks efficiently.
 
-• Knowledge: Kotlin, Dagger 2, GMS, Pluto, Camera, MVVM architecture, Drag Drop, UI/UX , Navigation Component, Room, Lottie Animation, SharedPreferences, Flow, Git, Rest Api,Gson, OkHttp, Kotlin Coroutines, GPS, Retrofit 2, Glide, ViewBinding, Material2, Custom Views, Google map api.
+• Debugged the application, fixed bugs, and applied best practices to maintain a high standard of code quality and user experience.
+
+• Knowledge: Kotlin, Dagger 2, GMS, MVVM architecture, Drag & Drop, UI/UX Design, Navigation Component, Room, Lottie Animation, SharedPreferences, Flow, Git, REST API, Gson, OkHttp, Kotlin Coroutines, GPS, Retrofit 2, Glide, ViewBinding, Material Design, Custom Views, Google Maps API, and more.
 
 # Hobby Native Android apps
 
