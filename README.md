@@ -115,7 +115,7 @@ Introducing Cinemoza, your ultimate destination for the finest movie and TV show
 ## 1. Quiz uz - Teacher Skill Evaluator
 
 <p align="center">
- <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/quiz.png" width="609" height="400" />
+ <img src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/quizmax.png" width="609" height="400" />
 </p>
 
 
