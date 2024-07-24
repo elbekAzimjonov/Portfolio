@@ -85,7 +85,7 @@ The Savdo Delivery application is designed for delivery agents to manage and del
 
  <p align="center">
  <a href="https://play.google.com/store/apps/details?id=com.conamobile.romchi&hl=en">
-   <img  src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/googleplay.png" width="200" height="100">
+   <img  src="https://github.com/elbekAzimjonov/Portfolio/blob/main/Templates/googleplay.png" width="100" height="45">
  </a>
 </p>
  
